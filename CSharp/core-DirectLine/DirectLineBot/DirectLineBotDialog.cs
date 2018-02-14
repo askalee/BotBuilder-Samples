@@ -47,7 +47,7 @@
 
                     break;
                 default:
-                    reply.Text = $"You said '{message.Text}'";
+                    reply.Text = $"I am Aska, you said '{message.Text}'";
                     break;
             }
 
